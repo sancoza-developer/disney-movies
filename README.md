@@ -3,7 +3,7 @@
 
 ### 😎 ADVANCED
 
-#### 🤩 A challenge for you guys
+#### ⚡ A challenge for you guys
 
 Make this site fully responsive with media query
 add hamburger menu
